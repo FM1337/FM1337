@@ -1,7 +1,18 @@
-### FM1337
+Allen @ GitHub
+---
 
-![FM1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=fm1337)
+Hi there, I'm Allen and this is my GitHub profile, where you'll find some of the open source projects I have worked on and contributed to.
 
-Current owner (and web developer/master) of [FlagBrew](https://flagbrew.org), creator of the [Crystal Clear Injector Site](https://inject.fm1337.com) and Co-creator of the Crystal Clear Trading System
+I am the current owner (and web developer/master) of FlagBrew and also the creator of the Crystal Clear Injector Site and co-creator of the Crystal Clear Trading System.
 
-I'm a software engineer who enjoys coding as both a hobby and a job.
+Software development is my hobby, passion and profession, always willing to help out where I can! 😄
+
+### Checkout some of the following I have created
+- https://inject.fm1337.com
+- https://translate.sigkill.tech
+- https://flagbrew.org
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fm1337" />
+</p>
