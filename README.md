@@ -8,8 +8,8 @@ I am the current owner (and web developer/master) of FlagBrew and also the creat
 Software development is my hobby, passion and profession, always willing to help out where I can! 😄
 
 ### Checkout some of the following I have created
-- https://inject.fm1337.com
-- https://translate.sigkill.tech
+- https://inject.sigkill.com
+- https://sigkill.tech
 - https://flagbrew.org
 
 ---
