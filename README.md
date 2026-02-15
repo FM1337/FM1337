@@ -11,6 +11,3 @@ Software development is my hobby, passion and profession, always willing to help
 - https://inject.sigkill.tech
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fm1337" />
-</p>
